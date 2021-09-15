@@ -1,6 +1,6 @@
-# Baseline for Azure accounts
+# Baseline for Azure Subscriptions
 
-The Ministry of Justice \(MoJ\) has a 'lowest common denominator' approach to apply to the largest possible number of people for security-related promises, capabilities and configurations of MoJ Azure accounts.
+The Ministry of Justice \(MoJ\) has a 'lowest common denominator' approach to apply to the largest possible number of people for security-related promises, capabilities and configurations of MoJ Azure Subscriptions.
 
 The baseline is not a holistic list of dos and don'ts, but a minimum line in the sand for what 'at least' **SHALL** be done.
 
@@ -8,7 +8,7 @@ This guidance is Version 1.2, September 13th 2021.
 
 ## The base principle
 
-All MoJ Azure accounts **SHALL** utilise a series of agreed configurations to enable and support good tenancy within Azure, and a suitable cyber security posture.
+All MoJ Azure Subscriptions **SHALL** utilise a series of agreed configurations to enable and support good tenancy within Azure, and a suitable cyber security posture.
 
 ### Anti-solutionising
 
