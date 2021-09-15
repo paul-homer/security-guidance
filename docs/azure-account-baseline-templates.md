@@ -32,15 +32,15 @@ As an organization expands its use of Azure services, there is often a conversat
 
 [Tagging](#tagging).
 
-This section provides the definition of baseline controls and list of templates that cover the baseline and governance guardrails that can be deployed to new accounts.
+This section provides the definition of baseline controls and list of templates that cover the baseline and governance guardrails that can be deployed to new accounts / subscriptions.
 
 ### Azure Security Centre
 
 Leverage Azure Security Centre to ensure workloads are secure and to strengthen the security posture of the Azure estate. With continuous assessment, newly deployed resources are assessed and scored based on recommendations against Azure Security Benchmark.
 
-### Azure Identity Management \(PIM\)
+### Azure Privileged Identity Management \(PIM\)
 
-Enabling PIM helps to mitigate the risk of excessive, unnecessary or misused access rights by allowing administrators to discover, restrict and monitor access to Azure Active Directory resources. Essentially, it means that any user with access to the MoJ data is only allowed access to certain files or services, assigned by the global and privileged role administrators.
+Enabling PIM helps to mitigate the risk of excessive, unnecessary or misused access rights by allowing administrators to discover, restrict and monitor access to Azure Active Directory resources. Essentially, it means that any user with access to MoJ data is only allowed access to certain files or services, assigned by the global and privileged role administrators.
 
 Recommendations to improve overall Azure security posture by monitoring at a minimum include:
 
